@@ -1,2 +1,1 @@
-# hello-world
-just to learn
+hoe long you have done with programming.....did any awesome cool projects or stuck on someone...
